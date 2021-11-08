@@ -1,0 +1,1 @@
+Digunakan untuk menyimpan repositori perkuliahan Kecerdasan Buatan bagian Learning
